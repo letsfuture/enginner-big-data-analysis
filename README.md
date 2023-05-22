@@ -4,5 +4,5 @@
 
 ## Category
 
-[00_data_preprocessing](https://github.com/letsfuture/enginner-big-data-analysis/blob/master/00_data_preprocessing.md)
+[00_data_preprocessing](https://github.com/letsfuture/enginner-big-data-analysis/blob/master/00_data_preprocessing.ipynb)
 
