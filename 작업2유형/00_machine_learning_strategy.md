@@ -50,7 +50,7 @@
 
 
 
-![Move mouse over image](01_machine_learning_strategy/ml_map.png)
+![Move mouse over image](00_machine_learning_strategy/ml_map.png)
 
 <br>
 
